@@ -1,0 +1,42 @@
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\bin\Debug\GYM.exe.config
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\bin\Debug\GYM.exe
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\bin\Debug\GYM.pdb
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.csprojResolveAssemblyReference.cache
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.Cache
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.exe
+c:\users\arsal khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.Registration.resources
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\bin\Debug\BLL.cs.dll
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\bin\Debug\DAL.cs.dll
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\bin\Debug\BLL.cs.pdb
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\bin\Debug\DAL.cs.pdb
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.Home.resources
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.Login.resources
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.Menu.resources
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.Addmission.resources
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.FeesRec.resources
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.Product.resources
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\GYM\obj\Debug\GYM.CreateAccount.resources
+D:\Project\GYM\GYM\bin\Debug\GYM.exe.config
+D:\Project\GYM\GYM\bin\Debug\GYM.exe
+D:\Project\GYM\GYM\bin\Debug\GYM.pdb
+D:\Project\GYM\GYM\bin\Debug\BLL.cs.dll
+D:\Project\GYM\GYM\bin\Debug\DAL.cs.dll
+D:\Project\GYM\GYM\bin\Debug\BLL.cs.pdb
+D:\Project\GYM\GYM\bin\Debug\DAL.cs.pdb
+D:\Project\GYM\GYM\obj\Debug\GYM.csprojAssemblyReference.cache
+D:\Project\GYM\GYM\obj\Debug\GYM.Addmission.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.CreateAccount.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.FeesRec.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.Home.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.Login.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.Menu.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.Product.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.Registration.resources
+D:\Project\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.cache
+D:\Project\GYM\GYM\obj\Debug\GYM.csproj.CoreCompileInputs.cache
+D:\Project\GYM\GYM\obj\Debug\GYM.csproj.CopyComplete
+D:\Project\GYM\GYM\obj\Debug\GYM.exe
+D:\Project\GYM\GYM\obj\Debug\GYM.pdb

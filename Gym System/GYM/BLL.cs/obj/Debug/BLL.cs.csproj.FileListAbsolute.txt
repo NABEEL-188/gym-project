@@ -1,0 +1,16 @@
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\BLL.cs\bin\Debug\BLL.cs.dll
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\BLL.cs\bin\Debug\BLL.cs.pdb
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\BLL.cs\bin\Debug\DAL.cs.dll
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\BLL.cs\bin\Debug\DAL.cs.pdb
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\BLL.cs\obj\Debug\BLL.cs.csprojResolveAssemblyReference.cache
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\BLL.cs\obj\Debug\BLL.cs.dll
+C:\Users\Arsal Khan\documents\visual studio 2013\Projects\GYM\BLL.cs\obj\Debug\BLL.cs.pdb
+D:\Project\GYM\BLL.cs\bin\Debug\BLL.cs.dll
+D:\Project\GYM\BLL.cs\bin\Debug\BLL.cs.pdb
+D:\Project\GYM\BLL.cs\bin\Debug\DAL.cs.dll
+D:\Project\GYM\BLL.cs\bin\Debug\DAL.cs.pdb
+D:\Project\GYM\BLL.cs\obj\Debug\BLL.cs.csprojAssemblyReference.cache
+D:\Project\GYM\BLL.cs\obj\Debug\BLL.cs.csproj.CoreCompileInputs.cache
+D:\Project\GYM\BLL.cs\obj\Debug\BLL.cs.csproj.CopyComplete
+D:\Project\GYM\BLL.cs\obj\Debug\BLL.cs.dll
+D:\Project\GYM\BLL.cs\obj\Debug\BLL.cs.pdb
